@@ -1,0 +1,14 @@
+/target/
+
+.classpath
+.project
+.settings
+*.mdb
+*.ldb
+*.sln
+*.com
+*.class
+*.dll
+*.exe
+*.jar
+*.rar
